@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">wk5Assignment</string>
+    <string name="firstGmail">makindegbohunmi@gmail.com</string>
+    <string name="secondGmail">oluwaseyiraymond@gmail.com</string>
+    <string name="thirdGmail">adegbiteshote@gmail.com</string>
+    <string name="fourthGmail">alakadamary@gmail.com</string>
+    <string name="fifthGmail">indubusimaria@gmail.com</string>
+    <string name="firstNumber">08132247410</string>
+    <string name="secondNumber">09077665534</string>
+    <string name="thirdNumber">08145799879</string>
+    <string name="fourthNumber">07088996654</string>
+    <string name="fifthNumber">09145678976</string>
+
+
+</resources>
